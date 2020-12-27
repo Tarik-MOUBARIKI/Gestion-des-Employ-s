@@ -46,8 +46,8 @@ CREATE TABLE `employee` (
 
 INSERT INTO `employee` (`id`, `nom`, `prenom`, `age`, `dataDES`, `type`, `salary`, `inserted_at`, `updated_at`) VALUES
 (33, 'dsqdqs', 'qsddqssqd', 67, 1099, 'vendeur', 3500, '2020-12-24 19:54:02', '2020-12-24 19:54:02'),
-(34, 'dsqds', 'qsdqddqs', 123, 1990, 'Manutentionaire', 5200, '2020-12-24 19:55:15', '2020-12-24 19:55:15'),
-(35, 'yassine', 'aibi', 12, 1990, 'vendeur', 3500, '2020-12-25 08:12:23', '2020-12-25 08:12:23');
+(34, 'dr','dre',3, 1990, 'Manutentionaire', 5200, '2020-12-24 19:55:15', '2020-12-24 19:55:15'),
+(35, 'tarek', 'mobariki', 12, 1990, 'vendeur', 3500, '2020-12-25 08:12:23', '2020-12-25 08:12:23');
 
 --
 -- Index pour les tables déchargées
